@@ -1,4 +1,4 @@
-# ESERCIZIO 4 Frontend Integration
+# ESERCIZIO 4: Frontend Integration
 - Aprire l'Esercizio 1 e seguire le istruzioni per farlo partire
 - Aprire l'Esercizio 4  con VS Code o editor equivalente e installare i pacchetti npm digitando `npm i` all'interno di un terminale
 - Far partire il progetto digitando dentro un terminale `http-server -p 8080`
